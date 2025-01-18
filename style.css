@@ -495,7 +495,7 @@ textarea {
   height: auto;
   position: absolute;
   border-radius: 6px;
-  left: max(calc(10% * 7), 100%);
+  left: max(calc(10% * 8), 100%);
   animation-name: scrollLeft;
   animation-duration: 30s;
   animation-timing-function: linear;
